@@ -1,7 +1,7 @@
 
 # LifeXP 🚀
 
-this is a gamified web application where users complete challenges to earn XP (experience points). As users gain XP, their profile level and rank increase — making self-improvement feel like a game.
+this is a gamified web application where users complete challenges to earn XP (experience points). As users gain XP, their profile level and rank increase — making self-improvement feel like a game
 
 ## ✨ Features
 - User signup and login (frontend only)
